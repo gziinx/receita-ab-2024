@@ -18,4 +18,4 @@ site de uma receita de torta de morango. o intuito deste projeto e colocar em pr
 ---
 
 ## Autor
--[Gustavo Miguel]()
+-[Gustavo Miguel]()# imagens
